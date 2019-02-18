@@ -1,0 +1,14 @@
+.header{
+    background-color: black;
+    color: white;
+    height: 25vh;
+    padding-left: 320px;
+    padding-top: 40px;
+}
+body{
+    background-color: #80bdff;
+}
+.one{
+    align-content: center;
+    padding-left: 300px;
+}
